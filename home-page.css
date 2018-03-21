@@ -29,6 +29,11 @@ div.main{
     top:113px;
     left: 0px;
 }
+.logo{
+    position: fixed;
+    top:50px;
+    left: 100px;
+}
         
         .header img{
             position: relative;
@@ -174,6 +179,43 @@ padding-right: 15px;
   .ss5{
       color: white;
   }
-        
+  .about{position: fixed;
+      top:700px;
+      left:1000px;
+      color: white;
+      text-decoration: none;
+      font-size: 20px;
+      line-height: 20px;
+  }
+  .media{
+      position: fixed;
+      top:700px;
+      left:1130px;
+      color: white;
+      text-decoration: none;
+      font-size: 20px;
+      line-height: 20px;
 
+  }
+  .blog{
+      position: fixed;
+      top:700px;
+      left:1260px;
+      color: white;
+      text-decoration: none;
+      font-size: 20px;
+      line-height: 20px;
+
+  }
+.contact{
+    position: fixed;
+    top:700px;
+    left:1390px;
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    line-height: 20px;
+
+
+}
     
