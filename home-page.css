@@ -31,9 +31,8 @@ div.main{
     left: 0px;
 }
 .logo{
-    position: fixed;
-    top:50px;
-    left: 100px;
+    position: relative;
+    float: left;
 }
         
         .header img{
@@ -42,7 +41,8 @@ div.main{
                 padding-top: 30px;
                 padding-left: 15px; 
         }
- 
+
+
         
 img.img-icon1{
 padding-right: 15px;
